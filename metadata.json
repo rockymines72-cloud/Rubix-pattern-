@@ -1,0 +1,5 @@
+{
+  "name": "Cubix Master",
+  "description": "An interactive Rubik's Cube pattern library and algorithm explorer for 2x2 to 5x5 cubes, featuring AI-powered algorithm explanations.",
+  "requestFramePermissions": []
+}
